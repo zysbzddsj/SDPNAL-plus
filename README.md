@@ -1,1 +1,1 @@
-# SDPNAL_plus
+# SDPNAL-plus
